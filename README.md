@@ -27,4 +27,4 @@ Or you can go to any of the following links to message me or checkout my work:
 ## stats
 
 ![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caleb-hollingsworth&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-hollingsworth&theme=highcontrast)](https://github.com/Caleb-Hollingsworth/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-hollingsworth&theme=highcontrast)
