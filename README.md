@@ -3,7 +3,7 @@
 </div>
 
 ---
-## about me
+## about me 👨‍💻
 
 I am a full-stack software developer with a major background in music performance and teaching. I am a driven and focused problem-solver with an analytical mind and strong attention to detail.
 
@@ -13,7 +13,7 @@ I also work with this cool guy, [Mike Gasbarro](https://github.com/mpgasbarro), 
 
 ---
 
-## need to get in touch or just wanna chat?
+## need to get in touch or just wanna chat? 👋
 
 You can always get in touch with me through my work email:
 
@@ -24,7 +24,7 @@ Or you can go to any of the following links to message me or checkout my work:
 - [LinkedIn](https://www.linkedin.com/in/caleb-hollingsworth-dev/)
 - [Portfolio](https://calebhollingsworthdev.herokuapp.com)
 
-## stats
+## stats 📊
 
 ![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caleb-hollingsworth&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-hollingsworth&theme=highcontrast)
