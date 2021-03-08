@@ -1,16 +1,24 @@
-### Hi there 👋
+<div>
+    <img src="https://tenor.com/3o2m.gif"/>
+</div>
 
-<!--
-**Caleb-Hollingsworth/Caleb-Hollingsworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I am a full-stack software developer with a major background in music performance and teaching. I am a driven and focused problem-solver with an analytical mind and strong attention to detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I work as a junior full-stack developer for a company called Atomic Atlas, where we create applications for clientele as well as ourselves, using our Atomic Development Kit.
+
+I also work with this cool guy, [Mike Gasbarro](https://github.com/mpgasbarro), on a little passion project of ours called, Terra. Terra is full-stack mobile application where people can find and create packlists for outdoor adventures.
+
+---
+
+Need to get in touch or just wanna chat?
+
+You can always get in touch with me through my work email:
+
+- caleb.hollingsworth.dev@gmail.com
+
+Or you can go to any of the following links to message me or checkout my work:
+
+- [LinkedIn](https://www.linkedin.com/in/caleb-hollingsworth-dev/)
+- [Portfolio](https://calebhollingsworthdev.herokuapp.com)
