@@ -1,6 +1,5 @@
-<div>
-<div class="tenor-gif-embed" data-postid="13165216" data-share-method="host" data-width="100%" data-aspect-ratio="1.3351206434316354"><a href="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">Sultan Alrefaei Programmer GIF</a> from <a href="https://tenor.com/search/sultanalrefaei-gifs">Sultanalrefaei GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+![](https://tenor.com/3o2m.gif | align="center")
+
 ---
 
 I am a full-stack software developer with a major background in music performance and teaching. I am a driven and focused problem-solver with an analytical mind and strong attention to detail.
