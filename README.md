@@ -1,4 +1,4 @@
-![](https://tenor.com/3o2m.gif | align="center")
+![Alt Text](https://tenor.com/3o2m.gif | align="center")
 
 ---
 
