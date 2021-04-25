@@ -22,7 +22,7 @@ You can always get in touch with me through my work email:
 Or you can go to any of the following links to message me or checkout my work:
 
 - [LinkedIn](https://www.linkedin.com/in/caleb-hollingsworth-dev/)
-- [Portfolio](https://calebhollingsworthdev.herokuapp.com)
+- [Portfolio](https://master.d10ltybyyz98x3.amplifyapp.com/)
 
 ## stats 📊
 
