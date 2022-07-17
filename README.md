@@ -7,7 +7,7 @@
 
 I am a full-stack software developer with a major background in music performance and teaching. I am a driven and focused problem-solver with an analytical mind and strong attention to detail.
 
-Currently I work as a junior full-stack developer for a company called Atomic Atlas, where we create applications for clientele as well as ourselves, using our Atomic Development Kit.
+Currently I work as a full-stack developer for a company working to build a virtual live event environment called, XPO 360.
 
 I also work with this cool guy, [Mike Gasbarro](https://github.com/mpgasbarro), on a little passion project of ours called, Terra. Terra is full-stack mobile application where people can find and create packlists for outdoor adventures.
 
